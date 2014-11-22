@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1236905886 c:\documents and settings\kirk\my documents\wiimotestuff\superwiimote\superwiimote\main.cpp
+	<windows.h>
+	<iostream>
+	"wiimote.h"
+
+1236905319 c:\documents and settings\kirk\my documents\wiimotestuff\superwiimote\superwiimote\wiimote.h
+
+1240873702 c:\documents and settings\kirk\my documents\wiimotestuff\superwiimote\console example\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<winable.h>
+	"wiimote.h"
+
+1240866139 c:\documents and settings\kirk\my documents\wiimotestuff\superwiimote\console example\wiimote.h
+
+1240953654 c:\documents and settings\kirk\my documents\wiimotestuff\drum kit\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<winable.h>
+	<math.h>
+	"wiimote.h"
+	"myplayer.h"
+
+1240874363 c:\documents and settings\kirk\my documents\wiimotestuff\drum kit\wiimote.h
+
+1240953285 c:\documents and settings\kirk\my documents\wiimotestuff\drum kit\myplayer.h
+
+1249676205 source:c:\users\kirk\documents\wiimotestuff\drum kit\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<winable.h>
+	<math.h>
+	"wiimote.h"
+	"myplayer.h"
+
+1240874363 c:\users\kirk\documents\wiimotestuff\drum kit\wiimote.h
+
+1240953285 c:\users\kirk\documents\wiimotestuff\drum kit\myplayer.h
+
+1273444385 source:c:\users\kirk\documents\programming\wiimotestuff\drum kit\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<winable.h>
+	<math.h>
+	"wiimote.h"
+	"myplayer.h"
+
+1240874363 c:\users\kirk\documents\programming\wiimotestuff\drum kit\wiimote.h
+
+1273444686 c:\users\kirk\documents\programming\wiimotestuff\drum kit\myplayer.h
+
